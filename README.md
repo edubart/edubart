@@ -18,6 +18,7 @@ C libraries:
 * [minivorbis](https://github.com/edubart/minivorbis) - Ogg Vorbis library ported to a single C header.
 
 Lua libraries:
+* [lpegrex](https://github.com/edubart/lpegrex) - Parse programming languages syntax into an AST using PEGs with ease (LPeg Extension).
 * [lester](https://github.com/edubart/lester) - Minimal testing framework for Lua.
 * [lua-bint](https://github.com/edubart/lua-bint) - Arbitrary precision integer arithmetic library in pure Lua.
 
