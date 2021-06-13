@@ -16,6 +16,7 @@ C libraries:
 * [miniphysfs](https://github.com/edubart/miniphysfs) - PhysFS ported to a single C header, used to access files and archives.
 * [minilua](https://github.com/edubart/minilua) - Lua programming language ported to a single C header.
 * [minivorbis](https://github.com/edubart/minivorbis) - Ogg Vorbis library ported to a single C header.
+* [miniminiz](https://github.com/edubart/miniminiz) - Miniz, a high performance data compression library, ported to a single C header.
 
 Lua libraries:
 * [lpegrex](https://github.com/edubart/lpegrex) - Parse programming languages syntax into an AST using PEGs with ease (LPeg Extension).
