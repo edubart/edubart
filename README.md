@@ -5,6 +5,7 @@ These are some open source projects, that may be useful for others and I'm activ
 Nelua:
 * [nelua](https://github.com/edubart/nelua-lang) - Low level systems programming languages inspired by Lua (to use in my future projects instead of C++).
 * [nelua-decl](https://github.com/edubart/nelua-decl) - C bindings generator for Nelua (to use existing C libraries with Nelua).
+* [nelua-batteries](https://github.com/edubart/nelua-decl) - Extra libraries for Nelua.
 * [nelua-sublime](https://github.com/edubart/nelua-sublime) - Sublime syntax for the Nelua programming language.
 * [nldoc](https://github.com/edubart/nldoc) - Tool to generate documentation for Nelua source files.
 
@@ -17,6 +18,7 @@ C libraries:
 * [miniphysfs](https://github.com/edubart/miniphysfs) - PhysFS ported to a single C header, used to access files and archives.
 * [minilua](https://github.com/edubart/minilua) - Lua programming language ported to a single C header.
 * [minivorbis](https://github.com/edubart/minivorbis) - Ogg Vorbis library ported to a single C header.
+* [sokol_gp](https://github.com/edubart/sokol_gp) - Efficient 2D graphics painter on top of Sokol GFX in a single C header.
 
 Lua libraries:
 * [lpegrex](https://github.com/edubart/lpegrex) - Parse programming languages syntax into an AST using PEGs with ease (LPeg Extension).
