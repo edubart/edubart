@@ -1,4 +1,4 @@
-Hello, I am an open source developer. In the past I was an avid C++ programmer, nowadays I usually code most of my stuff in C, Lua or Nelua programming languages. Through my career I've created successful game engines, games, websites and development tools. But today I am mostly focusing on developing [Nelua](https://nelua.io/) programming language, things around it and some other Lua/C related stuff.
+Hello, I am an open source developer proficient in C/C and Lua. Through my career I've created successful game engines, games, websites and development tools. Today I am mostly focusing on developing [Nelua](https://nelua.io/) programming language, things around it and some other C/Lua related stuff.
 
 These are some open source projects, that may be useful for others and I'm actively maintaining today:
 
