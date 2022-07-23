@@ -25,6 +25,7 @@ Lua libraries:
 
 There are some other projects I made in the past, that I don't maintain anymore but it's worth noting:
 * [otclient](https://github.com/edubart/otclient) - Client for MMORPG games, today it's used in the wild by multiple successful commercial games (most in private though).
+* [riscvm](https://github.com/edubart/riscvm) - Tiny RISC-V virtual machine that allows you using C as a "scripting language".
 * [euluna-binder](https://github.com/edubart/euluna-binder) - Smart Lua binder for C++ (extracted from otclient, simplified and made in standalone).
 * [otml](https://github.com/edubart/otml) - OTML file format (extract from otclient and made in standalone).
 * [synack](https://github.com/edubart/synack) - Tool to stress dedicated servers with network DDoS attacks with high throughput.
