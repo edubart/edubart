@@ -4,8 +4,6 @@ These are some open source projects, that may be useful for others and I'm activ
 
 Nelua:
 * [nelua](https://github.com/edubart/nelua-lang) - Low level systems programming languages inspired by Lua (to use in my future projects instead of C++).
-* [nelua-decl](https://github.com/edubart/nelua-decl) - C bindings generator for Nelua (to use existing C libraries with Nelua).
-* [nelua-batteries](https://github.com/edubart/nelua-batteries) - Extra libraries for Nelua.
 
 Tools:
 * [luamon](https://github.com/edubart/luamon) - Watch for file changes and autor restart an application (for quick live development).
