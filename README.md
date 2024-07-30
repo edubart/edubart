@@ -1,6 +1,10 @@
-Hello, I am an open source developer proficient in C/C++ and Lua. Through my career I've created successful game engines, games, websites and development tools. Today I am mostly focusing on developing [Nelua](https://nelua.io/) programming language, things around it and some other C/Lua related stuff.
+Hello, I am an open source developer proficient in C/C++, Lua, Linux, RISC-V. I consider myself a very low level programmer, working closely to the CPU, sometimes in assembly. Through my career I've created successful game engines, games, websites and development tools. Today I am mostly focusing on developing [Nelua](https://nelua.io/) programming language, emulators, gaming ecosystems for developers, and tools around them.
 
 These are some open source projects, that may be useful for others and I'm actively maintaining today:
+
+Emulators:
+* [Cartesi Machine](https://github.com/cartesi/machine-emulator) - RISC-V deterministic emulator capable of running Linux for verifying blockchain smart contracts through fraud proofs. I maintain and optimize its core RISC-V interpreter. It's the core technology behind [Cartesi](https://cartesi.io), an optimistic rollups solution that runs on Ethereum blockchain.
+* [RIV](https://github.com/rives-io/riv) - RISC-V verifiable fantasy console based on Cartesi Machine, capable of running and validating retro games. It's the core technology behind [RIVES](https://rives.io), a decentralized on-chain fantasy console for retro gaming.
 
 Nelua:
 * [nelua](https://github.com/edubart/nelua-lang) - Low level systems programming languages inspired by Lua (to use in my future projects instead of C++).
