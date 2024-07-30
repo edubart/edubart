@@ -3,7 +3,7 @@ Hello, I am an open source developer proficient in C/C++, Lua, Linux, RISC-V. I 
 These are some open source projects, that may be useful for others and I'm actively maintaining today:
 
 Emulators:
-* [Cartesi Machine](https://github.com/cartesi/machine-emulator) - RISC-V deterministic emulator capable of running Linux for verifying blockchain smart contracts through fraud proofs. I maintain and optimize its core RISC-V interpreter. It's the core technology behind [Cartesi](https://cartesi.io), an optimistic rollups solution that runs on Ethereum blockchain.
+* [Cartesi Machine](https://github.com/cartesi/machine-emulator) - RISC-V deterministic emulator capable of running Linux. I maintain and optimize its RISC-V interpreter. It's the core technology behind [Cartesi](https://cartesi.io), an optimistic rollups solution that runs on Ethereum blockchain.
 * [RIV](https://github.com/rives-io/riv) - RISC-V verifiable fantasy console based on Cartesi Machine, capable of running and validating retro games. It's the core technology behind [RIVES](https://rives.io), a decentralized on-chain fantasy console for retro gaming.
 
 Nelua:
